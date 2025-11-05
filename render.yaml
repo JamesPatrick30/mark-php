@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: clariza-ramos
+    name: mark-santos
     env: docker
     plan: free
     region: singapore
